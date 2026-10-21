@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "271345142761",
+    "firebase_url": "https://childsafetyesp32-4f526-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "childsafetyesp32-4f526",
+    "storage_bucket": "childsafetyesp32-4f526.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271345142761:android:2b479350b6c639e2865978",
+        "android_client_info": {
+          "package_name": "com.example.fyp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByI-kdptS6Ow_CN8ztoodfwR4bsv9yVy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
